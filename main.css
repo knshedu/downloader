@@ -1,9 +1,28 @@
 h1 {
     font-family: 微軟正黑體;
+    text-align: center;
+}
+h2 {
+    font-family: 微軟正黑體;
+    text-align: center;
+}
+
+h3 {
+    font-family: 微軟正黑體;
     text-align: center
+}
+
+button {
+    font-family: 微軟正黑體 Light;
+    text-align: center
+}
+
+text {
+    font-family: 微軟正黑體;
+    align-items: center;
 }
 
 p {
     font-family: 微軟正黑體 Light;
-    text-align: center
+    text-align: left
 }
