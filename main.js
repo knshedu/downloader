@@ -17,8 +17,5 @@ function files(myName) {
             document.location.href="https://tinyurl.com/y5u68ope";
             alert("PDF 檔案開啟教學\n1. 使用共享碼下載檔案\n2. 將檔案開啟（若預設開啟程式為瀏覽器）\n   或將檔案拖移至你專的網頁瀏覽器\n3. 即可瀏覽，Enjoy :)");
         }
-        else{
-            alert("無此共享碼")
-        }
     }
 }
