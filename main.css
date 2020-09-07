@@ -1,7 +1,9 @@
-p {
+h1 {
     font-family: 微軟正黑體;
+    text-align: center
 }
 
-password {
+p {
+    font-family: 微軟正黑體 Light;
     text-align: center
 }
